@@ -1,0 +1,8 @@
+
+.vscode
+.build
+
+debug_custom.json
+debug.*
+
+Secret.h
