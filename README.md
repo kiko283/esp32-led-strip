@@ -13,3 +13,8 @@ The `processCommand` function needs improvement perhaps, but this was adapted fr
 Sorry for the quick Readme, don't really have time to explain everything. Though, source code should be pretty much clean and easy to understand. Maybe if I have more free time later on, I'll update it with more detailed explanation.
 
 *NOTE2: Source code for the LEDStrip class is a modified (hopefully improved) version of something I found on the internet. It was long time ago, if someone can point out the original source author, I will gladly update this readme to give credit. Or perhaps maybe I used some example from the NeoPixelBus library (if they provide any). I honestly don't remember, sorry.*
+
+Support
+======
+
+<a href="https://www.buymeacoffee.com/kiko283" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
